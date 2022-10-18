@@ -10,3 +10,5 @@ z=x+y
 printf("%d",z);
 return0;
 }
+
+***output***:30
