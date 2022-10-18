@@ -1,4 +1,4 @@
-##Program2: Write a program to add two numbers
+## Program2: Write a program to add two numbers
 
 #include<stdio.h>
 
