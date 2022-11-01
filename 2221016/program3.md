@@ -16,3 +16,5 @@
  return 0;
  
 }
+# OUTPUT:(if age is 56)
+you can vote
