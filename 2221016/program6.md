@@ -25,3 +25,10 @@ print("Sum = %d",sum);
 return0;
 
 }
+# output:
+
+enter a positive integer: (5)
+
+5
+
+sum = 6
