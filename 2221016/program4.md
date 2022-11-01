@@ -21,3 +21,11 @@ int main()
     return 0;
     
 }
+# Output:
+a=10
+b=20
+a+b=30(Addition operator)
+a-b=10(Subtraction operator)
+a*b=200(Multiplication operator)
+a/b=0.5(Division operator)
+a mod b =10 (remainder operator)
