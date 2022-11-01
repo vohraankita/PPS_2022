@@ -1,4 +1,4 @@
-# Program to take input from user
+# Program 5; write a program to take input from user
 
 #include<stdio.h>
 
@@ -17,3 +17,11 @@ int main()
     return 0;
     
 }
+
+# output:
+
+enter an integer:
+
+47
+
+number=47
