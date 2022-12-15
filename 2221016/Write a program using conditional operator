@@ -1,0 +1,36 @@
+# Program 5: write a program to take input from user
+## Program 5 : Write a program using conditional operators
+
+```
+#include<stdio.h>
+
+int main()
+
+{
+
+    int a;
+
+    printf("enter an integer:");
+
+    scanf("%d", &a);
+
+    printf("number= %d",a);
+
+    return 0;
+
+int T=90,P=90,c;
+c=(T>80&&P>80)?1000:(P>80)?500:0;
+printf("%d",c);
+return 0;
+}
+
+# Output:
+
+enter an integer:
+
+43
+
+number=43
+
+```
+**Output : 1000**
