@@ -1,0 +1,5 @@
+# program 7: write a program to use while loop
+# program 7:write a program to use while loop
+#include<stdio.h>
+
+int main()
