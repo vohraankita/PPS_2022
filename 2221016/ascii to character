@@ -1,0 +1,5 @@
+## Program 17 : Write a program to enter a suitable character.
+## Program 16: Write a program to enter a suitable character.
+```C
+#include<stdio.h>
+int main()
